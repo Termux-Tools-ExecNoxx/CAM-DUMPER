@@ -1,0 +1,15 @@
+CAM-DUMPER
+
+KALI LINUX / TERMUX tool for hacking victim android front camera.
+
+Take webcam shots from target by just sending a malicious link
+
+apt update && apt upgrade
+apt install git php wget curl jq
+git clone https://github.com/LiNuX-Mallu/CAM-DUMPER.git
+cd CAM-DUMPER
+chmod +x camdumper.sh
+./camdumper.sh
+
+help : click this 👇
+2348033848356
